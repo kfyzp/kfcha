@@ -12,6 +12,10 @@
   {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/blibli.json"},
+  {"key": "push_Blixs","name": "相声小品","type": 3,"api": "csp_Blixs","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": ""},
+  {"key":"斗鱼","name":"🎤斗鱼(PHP)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"开麦K歌搜人","name":"开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
+  {"key": "csp_xpath_A33","name": "MTV🎸","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/pjia930/zhibo1/raw/master/0608/mtv"},
   {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"27b06d5221a24199b15f2e573d847430"}
@@ -23,7 +27,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Rhb2xpbmd6ZS9mYW55dWUvbWFpbi9odWl6b25nLnR4dA=="
           ]
         }
       ]
