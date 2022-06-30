@@ -6,11 +6,6 @@
 
 
 "sites":[
-{"key":"csp_293","name":"🎾293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"spider_juzi","name":"🎾橘子(SP)","type":3,"api":"spider_juzi","searchable":1,"quickSearch":1,"filterable":1},      
-      
-      
-      
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
