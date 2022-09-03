@@ -1,25 +1,48 @@
  {
-     "classes": [ {
+     "classes": [ 
+      {
          "type_name": "EXCEL",
          "type_id": "EXCEL教程"
-     }, {
+     }, 
+      {
          "type_name": "WORD",
          "type_id": "WORD教程"
-     },{
+     },
+      {
          "type_name": "office",
          "type_id": "office教程"
-     }, {
+     }, 
+      {
          "type_name": "WPS",
          "type_id": "WPS教程"
-     }, {
+     }, 
+      {
          "type_name": "Photoshop",
          "type_id": "PS教程"
-     },{
-         "type_name": "Studio one",
-         "type_id": "Studio one教程"
-     }, {
-         "type_name": "Git入门到精通",
-         "type_id": "Git入门到精通"
+     },  
+     {
+         "type_name": "初中英语",
+         "type_id": "初中英语"
+     },
+     {
+         "type_name": "初中物理",
+         "type_id": "初中物理"
+     },
+     {
+         "type_name": "初中化学",
+         "type_id": "初中化学"
+     },
+     {
+         "type_name": "初中数学",
+         "type_id": "初中数学"
+     },
+     {
+         "type_name": "初中语文",
+         "type_id": "初中语文"
+     },
+     {
+         "type_name": "初中历史",
+         "type_id": "初中历史"
      }, {
          "type_name": "...",
          "type_id": "..."
