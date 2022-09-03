@@ -20,16 +20,14 @@
 {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"555电影","name":"555电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":0},
-   {
-            "key": "77",
+// { "key": "77",
             "name": "77(爬虫)",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
-        },
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 
 {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/哔哩.json"},
 {"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/教程.json"},
