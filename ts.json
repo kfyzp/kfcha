@@ -20,6 +20,16 @@
 {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"555电影","name":"555电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":0},
+   {
+            "key": "77",
+            "name": "77(爬虫)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
+        },
 
  {"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/555电影(XB).json"},
  {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/LIBVIO(XB).json"},
