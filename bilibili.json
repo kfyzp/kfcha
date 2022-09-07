@@ -60,11 +60,7 @@
 "type_name":"说案",
 "type_id":"说案"
 },
-{
-"type_name":"解说",
-"type_id":"解说"
-},
-    {
+ {
       "type_name": "平面设计教学",
       "type_id": "平面设计教学"
     },
