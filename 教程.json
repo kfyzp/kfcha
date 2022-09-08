@@ -5,29 +5,10 @@
       "type_id": "软件教程"
     },
      {
-         "type_name": "初中英语",
-         "type_id": "初中英语"
+         "type_name": "初中",
+         "type_id": "初中"
      },
-     {
-         "type_name": "初中物理",
-         "type_id": "初中物理"
-     },
-     {
-         "type_name": "初中化学",
-         "type_id": "初中化学"
-     },
-     {
-         "type_name": "初中数学",
-         "type_id": "初中数学"
-     },
-     {
-         "type_name": "初中语文",
-         "type_id": "初中语文"
-     },
-     {
-         "type_name": "初中历史",
-         "type_id": "初中历史"
-     }, 
+  
      {
          "type_name": "演唱会",
          "type_id": "演唱会"
@@ -132,7 +113,7 @@
         ]
       }
     ],
-             "软件教程": [
+             "初中": [
        {"key": "order","name": "排序","value": [
 {"n": "综合排序","v": "0"},
 {"n": "最多点击","v": "click"},
