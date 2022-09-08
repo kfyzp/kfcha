@@ -43,9 +43,14 @@
      {
          "type_name": "初中历史",
          "type_id": "初中历史"
-     }, {
-         "type_name": "白噪音",
-         "type_id": "白噪音"
+     }, 
+     {
+         "type_name": "演唱会",
+         "type_id": "演唱会"
+     },
+     {
+         "type_name": "窗白噪音",
+         "type_id": "窗白噪音"
      }],
      "filter": {
          "EXCEL": [
@@ -57,6 +62,10 @@
 {"n": "最多收藏","v": "stow"}
 ]
 },
+{
+        "key": "tid",
+        "name": "分类",
+        "value": []},
           {
              "key": "duration",
              "name": "时长",
@@ -86,6 +95,10 @@
 {"n": "最多收藏","v": "stow"}
 ]
 },
+{
+        "key": "tid",
+        "name": "分类",
+        "value": []},
           {
              "key": "duration",
              "name": "时长",
@@ -116,6 +129,11 @@
 {"n": "最多收藏","v": "stow"}
 ]
 },
+{
+        "key": "tid",
+        "name": "分类",
+        "value": []},
+        
       {
              "key": "duration",
              "name": "时长",
@@ -146,6 +164,11 @@
 {"n": "最多收藏","v": "stow"}
 ]
 },
+{
+        "key": "tid",
+        "name": "分类",
+        "value": []},
+        
        {
              "key": "duration",
              "name": "时长",
@@ -176,6 +199,11 @@
 {"n": "最多收藏","v": "stow"}
 ]
 },
+{
+        "key": "tid",
+        "name": "分类",
+        "value": []},
+        
         {
              "key": "duration",
              "name": "时长",
@@ -205,6 +233,11 @@
 {"n": "最多收藏","v": "stow"}
 ]
 },
+{
+        "key": "tid",
+        "name": "分类",
+        "value": []},
+        
           {
              "key": "duration",
              "name": "时长",
