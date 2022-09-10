@@ -11,9 +11,9 @@
   {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/瓜皮TV(XB).json"},
   {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/剧白白(XPF).json"},
   {"key":"csp_xpath_kuqimv","name":"酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/酷奇MV(XP).json"},
-  {"key": "Gitcafe","name": "小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "7520a4f309694da1be0aa951512321d8"},
-  { "key": "AliPS","name": "盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7520a4f309694da1be0aa951512321d8"},
-  {"key": "push_agent", "name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "7520a4f309694da1be0aa951512321d8"}
+  {"key": "Gitcafe","name": "小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+  { "key": "AliPS","name": "盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+  {"key": "push_agent", "name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"}
   ],
 	
 	
