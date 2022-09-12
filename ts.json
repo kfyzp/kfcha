@@ -5,24 +5,28 @@
 		}]
 	}],
 	"sites": [
+{"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"神马影院","name":"神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/555电影(XB).json"},
+{"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/0907.jar"},
+		
+{"key":"csp_xp_bttwoo","name":"两个BT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xp/两个BT.json"},
+
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/LIBVIO(XB).json"},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/厂长资源(XB).json"},
 {"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/影视工厂(XB).json"},
+{"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xb/小强迷.json"},
+{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xb/在线之家.json"},
 {"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbiubiu/剧白白-蓝光.json"},
-{"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/bilibili.json"},
-{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/教程.json"},
-//{"key": "学堂","name": "学堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/学堂.json"},
-//{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-//{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-//{"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/555电影(XB).json"},
+		
+{"key" : "Yisou", "name" : "易搜(搜索)","type" : 3, "api" : "csp_Yiso","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/gg.jar"},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/gg.jar"},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/gg.jar"},
+{"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/gg.jar"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/gg.jar"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://5848531ky0.oicp.vip/TS/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0}
 	],
 
