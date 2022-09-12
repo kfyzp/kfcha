@@ -10,7 +10,7 @@
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"神马影院","name":"神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "3EDY", "name": "3EDY","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/gg.jar"},		
+{"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/kfyzp/kfcha/main/0907.jar"},	
 
 {"key":"csp_xp_bttwoo","name":"两个BT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xp/两个BT.json"},
 
