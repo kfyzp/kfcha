@@ -35,10 +35,10 @@
 {"key":"csp_xbb_voflix","name":"Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xb/voflix.json"},
 		
 		
-{"key":"Yisou","name" : "易搜(搜索)","type" : 3, "api" : "csp_Yiso","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},	
+//{"key":"Yisou","name" : "易搜(搜索)","type" : 3, "api" : "csp_Yiso","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "14ab7929c5724ffd9c3431d8fa19d421"},
+//{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
+//{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
+//{"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},	
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
 //https://raw.githubusercontents.com/kfyzp/kfcha/main/token.json
 		
