@@ -1,6 +1,6 @@
 {       //"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/XC0912.jar",
         //"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/m209.jar",
-        "spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/神器0922.jar",
+        "spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/0928.jar",
 	//"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/0907.jar",
 	//"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/t3-0831.jar",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -20,7 +20,14 @@
 {"key":"csp_jihuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 
-
+{
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "filterable": 1
+    },
 
 //{"key":"csp_xp_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xp/两个BT.json"},
 
