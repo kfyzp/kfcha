@@ -2,15 +2,6 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/123/custom_spider.jar",
   "sites": [
     {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"
-    },
-    {
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
