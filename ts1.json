@@ -1,7 +1,7 @@
-{       //"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/jar/jar/jar/jar/XC0912.jar",
-        //"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/jar/jar/jar/m209.jar",
-        "spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/jar/jar/0928.jar",
-	//"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/jar/0907.jar",
+{       //"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/XC0912.jar",
+        //"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/m209.jar",
+        "spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/0928.jar",
+	//"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/0907.jar",
 	//"spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/t3-0831.jar",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
