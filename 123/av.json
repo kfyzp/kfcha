@@ -1,14 +1,7 @@
 {
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/123/custom_spider.jar",
   "sites": [
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "朱古力",
       "name": "朱古力",
