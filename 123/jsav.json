@@ -12,14 +12,7 @@
 
 
   "sites": [
-    {
-      "key": "drpy_js_18av",
-      "name": "18av[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/123/js/18av.js"
-    },
-    
+   
     {
       "key": "drpy_js_玩偶姐姐",
       "name": "玩偶姐姐[DRPY]",
@@ -60,13 +53,6 @@
       "ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/123/js/banan.js"
     },
     
-    {
-      "key": "drpy_js_Missav",
-      "name": "Missav[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/123/js/Missav.js"
-    },
  
     {
       "key": "drpy_js_猫了个咪",
