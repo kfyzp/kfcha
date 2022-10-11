@@ -13,11 +13,11 @@
 
   "sites": [
     {
-      "key": "drpy_js_18av",
+      "key": "drpy_js_banan",
       "name": "18av[DRPY]",
       "type": 3,
-      "api": "https://raw.githubusercontents.com/kfyzp/kfcha/main/123/drpy(1).js",
-      "ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/123/18av.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://raw.githubusercontents.com/kfyzp/kfcha/main/123/banan.js"
     },
     {
       "key": "drpy_js_555影视",
