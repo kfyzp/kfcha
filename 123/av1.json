@@ -43,6 +43,23 @@
       "filterable": 1
     },
 
+   {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PigAV",
+      "name": "PigAV",
+      "type": 3,
+      "api": "csp_Pig",
+      "searchable": 1,
+      "filterable": 1
+    },
+
     {
       "key": "Hanime",
       "name": "Hanime",
@@ -124,22 +141,6 @@
       "filterable": 1
     },
     
-   {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "PigAV",
-      "name": "PigAV",
-      "type": 3,
-      "api": "csp_Pig",
-      "searchable": 1,
-      "filterable": 1
-    },
     {
       "key": "push_agent",
       "name": "推送",
