@@ -2,7 +2,7 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/123/18.jar",
   "sites": [
     
-    {
+    //{
       "key": "朱古力",
       "name": "朱古力",
       "type": 3,
