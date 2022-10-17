@@ -43,14 +43,6 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "PigAV",
-      "name": "PigAV",
-      "type": 3,
-      "api": "csp_Pig",
-      "searchable": 1,
-      "filterable": 1
-    },
 
     {
       "key": "Hanime",
