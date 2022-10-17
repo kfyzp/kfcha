@@ -1,5 +1,4 @@
 景区直播,#genre#
-峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
 宁夏大漠孤烟,http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
 映秀新城,http://gcbsc.v.live.baishancdnx.cn/gc/wcyxxc01_1/index.m3u8
 福建华安土楼,http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
@@ -96,7 +95,6 @@
 六角亭瀑布,http://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
 深圳世界之窗,http://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
 远眺贡嘎雪山,http://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-普贤菩萨铜像,http://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 远眺万佛顶,http://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
 凤凰古城东关门,http://gcksc.v.kcdnvip.com/gc/fhgcdgm_1/index.m3u8
 凤凰古城南华山,http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
