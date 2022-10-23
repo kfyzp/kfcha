@@ -1,4 +1,4 @@
-{      "spider":"https://raw.githubusercontents.com/kfyzp/kfcha/main/jar/神器1008.jar",
+{      "spider":"https://raw.iqiq.io/kfyzp/kfcha/main/jar/神器1008.jar",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
 		}]
@@ -16,19 +16,19 @@
 {"key":"csp_DiDuan" ,"name":"低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 		
-{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/LIBVIO(XB).json"},
-{"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbxp/影视工厂(XB).json"},
-{"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xb/小强迷.json"},
-{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xb/在线之家.json"},
-{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/daolingze/fanyue/main/xbiubiu/剧白白-蓝光.json"},
-{"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xb/大米星球.json"},
-{"key":"csp_xbb_voflix","name":"Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/kfyzp/kfcha/main/xb/voflix.json"},
+{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/daolingze/fanyue/main/xbxp/LIBVIO(XB).json"},
+{"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/daolingze/fanyue/main/xbxp/影视工厂(XB).json"},
+{"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/xb/小强迷.json"},
+{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/xb/在线之家.json"},
+{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/daolingze/fanyue/main/xbiubiu/剧白白-蓝光.json"},
+{"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/xb/大米星球.json"},
+{"key":"csp_xbb_voflix","name":"Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/xb/voflix.json"},
 
 	
-{"key":"Yisou","name" : "易搜(搜索)","type" : 3, "api" : "csp_Yiso","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "26496fd573ac45d5b3b3f77799fc126f"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"26496fd573ac45d5b3b3f77799fc126f"},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"26496fd573ac45d5b3b3f77799fc126f"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"26496fd573ac45d5b3b3f77799fc126f"}
+{"key":"Yisou","name" : "易搜(搜索)","type" : 3, "api" : "csp_Yiso","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"f6fcd2d1c0e54601805413721d89e0ca"}
 ],
 		
 
