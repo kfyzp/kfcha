@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "339541c49aab4f6c878119930894f7ab"
+      "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/token.json"
     },
     {
       "key": "IKan",
@@ -147,7 +147,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "339541c49aab4f6c878119930894f7ab"
+      "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/token.json"
     },
     {
       "key": "AliPS",
@@ -157,7 +157,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "339541c49aab4f6c878119930894f7ab"
+      "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/token.json"
     },
     {
       "key": "push_agent",
@@ -167,7 +167,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "339541c49aab4f6c878119930894f7ab"
+      "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/token.json"
     }
   ],
   "lives": [
