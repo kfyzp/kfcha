@@ -1,4 +1,4 @@
-{      "spider":"https://raw.iqiq.io/kfyzp/kfcha/main/jar/神器1008.jar",
+{      "spider":"https://raw.fastgit.org/kfyzp/kfcha/main/jar/神器1008.jar",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
 		}]
@@ -15,9 +15,9 @@
 {"key":"csp_ZJMiao","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/xb/小强迷.json"},
-{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/daolingze/fanyue/main/xbiubiu/剧白白-蓝光.json"},
-{"key":"csp_xbb_voflix","name":"Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/xb/voflix.json"},
+{"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kfyzp/kfcha/main/xb/小强迷.json"},
+{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/daolingze/fanyue/main/xbiubiu/剧白白-蓝光.json"},
+{"key":"csp_xbb_voflix","name":"Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kfyzp/kfcha/main/xb/voflix.json"},
 
 	
 {"key":"Yisou","name" : "易搜(搜索)","type" : 3, "api" : "csp_Yiso","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "339541c49aab4f6c878119930894f7ab"},
