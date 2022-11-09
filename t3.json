@@ -126,6 +126,7 @@
 {"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kfyzp/kfcha/main/xb/小强迷.json"},
 {"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/daolingze/fanyue/main/xbiubiu/剧白白-蓝光.json"},
 {"key":"csp_xbb_voflix","name":"Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kfyzp/kfcha/main/xb/voflix.json"},
+{"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
     {
       "key": "SP360",
