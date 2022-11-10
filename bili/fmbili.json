@@ -4,9 +4,7 @@
   "classes": [
     {"type_name": "帕梅拉","type_id": "帕梅拉"}, 
     
-    {"type_name": "太极拳","type_id": "太极拳" }, 
-    
-    {"type_name": "八段锦","type_id": "八段锦"}, 
+ 
     
     { "type_name": "励志学习","type_id": "励志学习" },
     
@@ -19,16 +17,20 @@
     {"type_name": "相声小品","type_id": "相声小品"},
     
     {"type_name":"演讲","type_id":"演讲"},
-    
-    {"type_name":"4K资源","type_id":"4K"},
-		
-    {"type_name":"8K资源","type_id":"8K"},
-		
+ 		
     {"type_name": "演唱会", "type_id": "演唱会"},
 		
     {"type_name":"人教版", "type_id":"人教版课程"},
 		
-    {"type_name": "英语",  "type_id": "英语学习" }
+    {"type_name": "英语",  "type_id": "英语学习" },
+	  
+    {"type_name": "太极拳","type_id": "太极拳" }, 
+    
+    {"type_name": "八段锦","type_id": "八段锦"},
+	  
+    {"type_name":"4K资源","type_id":"4K"},
+		
+    {"type_name":"8K资源","type_id":"8K"}
     
 	],
 	"filter": {
