@@ -24,41 +24,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/ziyong.json"
-    },
+    },   
    
-
-   
-   
-    {
-      "key": "演唱会自定义",
-      "name": "🌈演唱会",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/演唱会.json"
-    },
-    {
-      "key": "MV",
-      "name": "🌈哔哩MV",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/MTV.json"
-    },
     {
       "key": "PS",
-      "name": "🎉PS教程",
+      "name": "🎉健身",
       "type": 3,
       "api": "csp_Dora",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/哔哩PS.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/健身.json"
     },
+    
     {
       "key": "外语",
       "name": "🏠外语学堂",
