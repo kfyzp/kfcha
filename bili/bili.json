@@ -53,13 +53,13 @@
 
     {
       "key": "名师课堂",
-      "name": "🅱️哔哩┃名师课堂",
+      "name": "🅱️哔哩┃课堂",
       "type": 3,
       "api": "csp_Dora",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/名师课堂.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/课堂.json"
     },
    
  
