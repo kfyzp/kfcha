@@ -21,7 +21,17 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/fmbili.json"
     },
   
-   
+       {
+      "key": "歌曲MV",
+      "name": "🅱️哔哩┃歌曲MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/歌曲MV.json"
+    },
+    
     {
       "key": "紙條",
       "name": "紙條",
