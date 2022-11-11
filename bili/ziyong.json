@@ -12,15 +12,13 @@
     
     {"type_name":"演讲","type_id":"演讲"}, 
           
-		{"type_name":"4K资源","type_id":"4K"},
+    {"type_name":"4K资源","type_id":"4K"},
 		
-		{"type_name":"8K资源","type_id":"8K"}
+    {"type_name":"8K资源","type_id":"8K"}
     
 	],
-	"filter": {
 	
-
-
+"filter": {
 	
 "小艾大叔": [
 
