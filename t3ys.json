@@ -136,7 +136,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/fmbili.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
     {
