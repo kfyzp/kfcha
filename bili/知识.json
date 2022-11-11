@@ -10,22 +10,7 @@
       "type_name": "博通",
       "type_id": "博通"
     }, 
-    {
-      "type_name": "Python",
-      "type_id": "Python"
-    },
-   {
-      "type_name": "Java",
-      "type_id": "Java"
-    },
-    {
-      "type_name": "爬虫",
-      "type_id": "爬虫"
-    },
-    {
-      "type_name": "安卓逆向",
-      "type_id": "安卓逆向"
-    },
+   
     {
       "type_name": "中医基础",
       "type_id": "中医基础"
@@ -59,8 +44,23 @@
      {
       "type_name": "世界历史",
       "type_id": "世界历史"
-    }   
-
+    }, 
+ {
+      "type_name": "Python",
+      "type_id": "Python"
+    },
+   {
+      "type_name": "Java",
+      "type_id": "Java"
+    },
+    {
+      "type_name": "爬虫",
+      "type_id": "爬虫"
+    },
+    {
+      "type_name": "安卓逆向",
+      "type_id": "安卓逆向"
+    }
 
   ],
   "filter": {
