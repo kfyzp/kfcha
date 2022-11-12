@@ -2,6 +2,18 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/123/18.jar",
   "sites": [
     
+     {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/123/abili.json"
+       },
+    
+    
+    
     {
       "key": "Jable",
       "name": "Jable",
