@@ -1,7 +1,11 @@
 
 {
-"cookie": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cookie.txt",	
+//"cookie": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cookie.txt",	
+	
+"cookie": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cookie1.txt",
+	
  //"cookie": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/cookie.txt",
+	
   "classes": [
     {"type_name": "帕梅拉","type_id": "帕梅拉"}, 
 	  
