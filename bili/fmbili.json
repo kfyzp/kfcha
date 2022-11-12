@@ -43,103 +43,45 @@
 		
     {"type_name":"8K资源","type_id":"8K"},
 	  
-    {
-      "type_name": "知识",
-      "type_id": "知识"
-    },  
-    {
-      "type_name": "博通",
-      "type_id": "博通"
-    },   
+    {"type_name": "知识","type_id": "知识"},  
 	  
-    {
-      "type_name": "演唱会",
-      "type_id": "演唱会"
-    },
+    {"type_name": "博通","type_id": "博通"},   
+	  
+    {"type_name": "演唱会","type_id": "演唱会"},
     
-    {
-      "type_name": "MV",
-      "type_id": "MV"
-    },
+    {"type_name": "MV","type_id": "MV"},
     
-    {
-      "type_name": "粤语",
-      "type_id": "粤语歌曲"
-    },
-    {
-      "type_name": "2022年热榜",
-      "type_id": "2022年热们歌曲"
-    },
-    {
-      "type_name": "热门KTV",
-      "type_id": "热门KTV"
-    },
+    { "type_name": "粤语","type_id": "粤语歌曲"},
+	  
+    {"type_name": "2022年热榜","type_id": "2022年热们歌曲"},
+	  
+    {"type_name": "热门KTV","type_id": "热门KTV"},
     
-    {
-      "type_name": "古风歌曲",
-      "type_id": "古风歌曲"
-    },
+    {"type_name": "古风歌曲","type_id": "古风歌曲"},
 
-    {
-      "type_name": "林忆莲",
-      "type_id": "林忆莲mv"
-    },
+    {"type_name": "林忆莲","type_id": "林忆莲mv"},
         
-    {
-      "type_name": "Beyond",
-      "type_id": "Beyond"
-    },
+    {"type_name": "Beyond","type_id": "Beyond" },
+        
+    {"type_name": "周杰伦","type_id": "周杰伦mv"},
     
+    { "type_name": "周华健","type_id": "周华健mv"},    
     
-    {
-      "type_name": "周杰伦",
-      "type_id": "周杰伦mv"
-    },
+    {"type_name": "邓紫棋","type_id": "邓紫棋mv"},
     
-    {
-      "type_name": "周华健",
-      "type_id": "周华健mv"
-    },    
+    {"type_name": "刘德华", "type_id": "刘德华mv"},    
     
-    {
-      "type_name": "邓紫棋",
-      "type_id": "邓紫棋mv"
-    },
+    {"type_name": "任贤齐","type_id": "任贤齐mv"},    
     
-    {
-      "type_name": "刘德华",
-      "type_id": "刘德华mv"
-    },    
+    {"type_name": "张学友","type_id": "张学友 mv"},    
     
-    {
-      "type_name": "任贤齐",
-      "type_id": "任贤齐mv"
-    },    
-    
-    {
-      "type_name": "张学友",
-      "type_id": "张学友 mv"
-    },    
-    
-    {
-      "type_name": "刘珂矣",
-      "type_id": "刘珂矣"
-    },    
+    {"type_name": "刘珂矣", "type_id": "刘珂矣"},    
    
-    {
-      "type_name": "许嵩",
-      "type_id": "许嵩mv"
-    },
+    {"type_name": "许嵩","type_id": "许嵩mv"},
     
-    {
-      "type_name": "黄格选",
-      "type_id": "黄格选mv"
-    },
+    {"type_name": "黄格选","type_id": "黄格选mv"},
         
-    {
-      "type_name": "坂井泉水",
-      "type_id": "坂井泉水"
-    }  
+    {"type_name": "坂井泉水","type_id": "坂井泉水"}  
     
 	],
 	"filter": {
