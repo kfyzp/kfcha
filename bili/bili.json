@@ -23,7 +23,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "8https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/ziyong.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/ziyong.json"
     },   
    
     {
@@ -34,7 +34,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "8https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/健身.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/健身.json"
     },
     
 
@@ -47,7 +47,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "8https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/Excel教程.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/Excel教程.json"
     },
    
 
@@ -59,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "8https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/课堂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/课堂.json"
     },
    
  
@@ -72,7 +72,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "8https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/知识.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/知识.json"
     },
     
     
@@ -84,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "8https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/歌曲MV.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/歌曲MV.json"
     }
     
 
