@@ -1,6 +1,8 @@
 {
   "classes": [
-
+    
+   "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cookie.txt",
+    
        {
       "type_name": "帕梅拉",
       "type_id": "帕梅拉"
