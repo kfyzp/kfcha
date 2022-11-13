@@ -147,8 +147,8 @@
       "api": "csp_Bili",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/fmbili.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "ext": "https://raw.fastgit.org/kfyzp/kfcha/main/bili/fmbili.json",
+      "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
     {
       "key": "紙條",
@@ -157,7 +157,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "ext": "339541c49aab4f6c878119930894f7ab",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
           {
       "key": "易搜",
@@ -167,7 +167,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
 
     {
@@ -178,7 +178,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
       {
       "key": "push_agent",
@@ -188,7 +188,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "339541c49aab4f6c878119930894f7ab",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     }
   ],
   "lives": [
@@ -520,5 +520,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3.jar"
+  "spider": "https://raw.fastgit.org/kfyzp/kfcha/main/jar/t3.jar"
 }
