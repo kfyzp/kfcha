@@ -177,7 +177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/kfyzp/kfcha/main/token.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/token.json"
     },
     {
       "key": "AliPS",
@@ -187,7 +187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/kfyzp/kfcha/main/token.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/token.json"
     },
       {
       "key": "push_agent",
