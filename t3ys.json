@@ -1,4 +1,6 @@
  {
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3.jar",
+  
   "sites": [
     {
       "key": "Kunyu",
@@ -519,6 +521,6 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3.jar"
+  ]
+  
 }
