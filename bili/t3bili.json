@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cs.jar;md5;550B75D3BC750DF1163DE65723C24F30",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cs.jar",
  
   "lives": [
     {
@@ -23,7 +23,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/ziyong.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/ziyong.json"
     }   
         
   ],
