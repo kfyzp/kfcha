@@ -130,6 +130,340 @@
    
    
    
+ {"key": "csp_XYQHiker_鸭奈飞影视",
+"name": "🦆鸭奈飞影视(XYQH)",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/鸭奈飞影视.json",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+    
+{"key": "csp_XYQHiker_皮皮泡",
+"name": "皮皮泡(XYQH)",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/皮皮泡.json",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "csp_XYQHiker_追剧达人",
+"name": "追剧达人(XYQH)",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/追剧达人.json",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "csp_XYQHiker_农民影视",
+"name": "🧑🏻‍🌾农民影视(XYQH)",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/农民影视.json",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+   
+{"key": "csp_XYQHiker_厂长影视",
+"name": "厂长影视(XYQH)",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/厂长影视.json",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+   
+   
+   
+{"key": "drpy_js_LIBVIO",
+"name": "影视|LIBVIO[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/LIBVIO.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+    
+{"key": "drpy_js_酷云77",
+"name": "影视|酷云77[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/酷云77.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+  
+  
+{"key": "drpy_js_子子影视",
+"name": "子子影视[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/子子影视.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_HDmoli",
+"name": "HDmoli[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/HDmoli.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+      
+{"key": "drpy_js_星辰",
+"name": "星辰[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/星辰.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+   
+{"key": "drpy_js_首播影院",
+"name": "首播影院[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/首播影院.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_追剧达人",
+"name": "追剧达人[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/追剧达人.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+       
+{"key": "drpy_js_厂长资源",
+"name": "厂长资源[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/厂长资源.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+   
+{"key": "drpy_js_低端",
+"name": "低端[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/ddys.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_69美剧",
+"name": "69美剧[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/69美剧.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+      
+{"key": "drpy_js_素白白",
+"name": "素白白[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/素白白.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_双十电影",
+"name": "双十电影[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/双十电影.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+       
+{"key": "drpy_js_8号影院",
+"name": "8号影院[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/8号影院.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_爱迪影视",
+"name": "爱迪影视[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/爱迪影视.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+       
+      
+{"key": "drpy_js_爱看影视",
+"name": "爱看影视[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/爱看影视.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_皮皮泡",
+"name": "皮皮泡[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/皮皮泡.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+       
+{"key": "drpy_js_牛马TV",
+"name": "牛马TV[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/牛马TV.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_人人影视",
+"name": "人人影视[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/人人影视.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_小强迷",
+"name": "小强迷[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/小强迷.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+ 
+{"key": "drpy_js_影视工厂",
+"name": "影视工厂[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/影视工厂.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_在线之家",
+"name": "在线之家[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/在线之家.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+       
+     
+{"key": "drpy_js_追剧喵",
+"name": "追剧喵[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/追剧喵.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+       
+{"key": "drpy_js_剧白白",
+"name": "剧白白[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/剧白白.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_奇优影院",
+"name": "奇优影院[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/奇优影院.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+      
+{"key": "drpy_js_Voflix",
+"name": "Voflix[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/Voflix.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+       
+{"key": "drpy_js_秋霞",
+"name": "秋霞[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/秋霞.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_短视频",
+"name": "聚合|短视频[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/短视频.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+    
+{"key": "drpy_js_斗鱼直播",
+"name": "斗鱼直播[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/斗鱼直播.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+   
+{"key": "drpy_js_哔哩直播",
+"name": "哔哩直播[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/哔哩直播.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_88看球",
+"name": "体育|88看球[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/88看球.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_310直播",
+"name": "体育|310直播[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/310直播.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_抓饭体育",
+"name": "体育|抓饭体育[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/抓饭体育.js",
+"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
+
+
+{"key": "drpy_js_海盗听书",
+"name": "听书|海盗听书[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/海盗听书.js","playerType": "2"},
+
+{"key": "drpy_js_听书网",
+"name": "听书|听书网[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/听书网.js","playerType": "2"},
+
+{"key": "drpy_js_有声小说吧",
+"name": "听说|有声小说吧[DRPY]",
+"type": 3,
+"api": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/js/有声小说吧.js","playerType": "2"},                
+   
+   
+   
+   
    
 
     {
