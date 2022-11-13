@@ -252,7 +252,6 @@
 "filterable": 0,
 "ext": "339541c49aab4f6c878119930894f7ab",
 "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"},
- 
 {"key": "csp_LocalFile",
 "name": "💻本地视频",
 "type": 3,
