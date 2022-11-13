@@ -235,23 +235,9 @@
 {"key": "drpy_js_有声小说吧",
 "name": "听说|有声小说吧[DRPY]","type": 3,
 "api": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/lib/drpy.min.js",
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/js/有声小说吧.js","playerType": "2"},
-
-  
-  
-       
-        
-        
-        
-        
-{"key": "push_agent",
-"name": "推送",
-"type": 3,
-"api": "csp_Push",
-"searchable": 1,
-"filterable": 0,
-"ext": "339541c49aab4f6c878119930894f7ab",
-"jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"},
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/js/有声小说吧.js","playerType": "2},
+ 
+ 
 {"key": "csp_LocalFile",
 "name": "💻本地视频",
 "type": 3,
@@ -260,6 +246,8 @@
 "quickSearch": 0,
 "filterable": 0}
     ],
+    
+    
     "parses": [
   {
 "name": "解析聚合",
