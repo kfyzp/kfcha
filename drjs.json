@@ -244,7 +244,7 @@
         
         
         
-"key": "push_agent",
+{"key": "push_agent",
 "name": "推送",
 "type": 3,
 "api": "csp_Push",
