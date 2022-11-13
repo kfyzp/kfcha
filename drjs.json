@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55",
+    "spider": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55",
     "lives": [
         {
             "group": "自定义",
@@ -23,7 +23,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/XYQHiker/鸭奈飞影视.json" },
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/鸭奈飞影视.json" },
     
 {"key": "csp_XYQHiker_皮皮泡",
 "name": "皮皮泡(XYQH)",
@@ -32,7 +32,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/XYQHiker/皮皮泡.json" },
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/皮皮泡.json" },
 
 {"key": "csp_XYQHiker_追剧达人",
 "name": "追剧达人(XYQH)",
@@ -41,7 +41,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/XYQHiker/追剧达人.json" },
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/追剧达人.json" },
 
 {"key": "csp_XYQHiker_农民影视",
 "name": "🧑🏻‍🌾农民影视(XYQH)",
@@ -50,7 +50,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/XYQHiker/农民影视.json" },
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/农民影视.json" },
    
 {"key": "csp_XYQHiker_厂长影视",
 "name": "厂长影视(XYQH)",
@@ -59,7 +59,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/dr_js/XYQHiker/厂长影视.json" },
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/厂长影视.json" },
         
         
         
