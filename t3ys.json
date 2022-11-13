@@ -169,25 +169,14 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/token.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
+
     {
-      "key": "Zhaozy",
-      "name": "资源",
+      "key": "盤搜",
+      "name": "盤搜",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_PanSou",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/token.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/token.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
