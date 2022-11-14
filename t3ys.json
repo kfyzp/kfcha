@@ -202,7 +202,8 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/alist.json"
+      "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/alist.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
    
 
