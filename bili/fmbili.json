@@ -20,7 +20,7 @@
 	  
 { "type_name": "low馆长","type_id": "low馆长"},
 	  
- {"type_name": "amoy大号","type_id": "amoy大号"},
+ {"type_name": "amoy大号","type_id": "amoy大号官方号"},
 
 { "type_name": "毕导THU","type_id": "毕导THU"},
 
@@ -195,7 +195,7 @@
   }
 ],
 		
-"amoy大号": [
+"amoy大号官方号": [
 
 {"key": "order","name": "排序","value": [
 {"n": "综合排序","v": "0"},
