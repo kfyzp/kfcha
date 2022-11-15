@@ -192,16 +192,10 @@
 
 
 
-   {"key":"AList",
-    "name": "AList",
-    "type": "3",
-    "api":"csp_AList",
-    "searchable":"1",
-    "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/alist.json"},
-
    
    
-   //{
+   
+   {
       "key": "AList",
       "name": "AList",
       "type": 3,
