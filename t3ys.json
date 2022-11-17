@@ -126,7 +126,7 @@
  {"key":"csp_xbb_voflix", "name":"Voflix HD", "type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"https://raw.fastgit.org/kfyzp/kfcha/main/xb/voflix.json"},
    
- {"key":"乐活影视",    "name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+ {"key":"乐活影视", "name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
    
    
  
@@ -230,6 +230,18 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/fmbili.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
+   
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/ziyong.json"
+    },   
+   
     {
       "key": "紙條",
       "name": "紙條",
