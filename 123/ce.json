@@ -3,6 +3,11 @@
   "wallpaper":"http://catvod.fun:8001/tv/H/w1.png",
   "lives":[{"group":"redirect","channels":[{	"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2NhdHZvZC5mdW46ODAwMS90di9saXZlLnR4dA"]}]}],
   "sites": [
+  {"key":"csp_xBPQ_banan","name": "banan","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/banan.json"},
+  {"key":"csp_xBPQ-爱看影院","name": "爱看影院️", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/爱看影院️.json"},
+  {"key":"csp_xBPQ_麻豆映画","name": "麻豆映画", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/麻豆映画.json"},
+  	  
+  
   {"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
   {"key":"水蜜桃","name": "水蜜桃","type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},	  
   {"key":"XYQBiu_cs","name":"🔥cs(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/1.json"},
@@ -19,9 +24,6 @@
   {"key":"csp_xBPQ_香蕉直播","name":"香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/香蕉直播.json"},
   {"key":"csp_xBPQ_香蕉搜索","name":"香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/香蕉搜索.json"},
   {"key":"csp_xBPQ_西瓜影视","name":"西瓜影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/西瓜影视.json"},
-  {"key":"csp_xBPQ_banan","name": "banan","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/banan.json"},
-  {"key":"csp_xBPQ-爱看影院","name": "爱看影院️", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/爱看影院️.json"},
-  {"key":"csp_xBPQ_麻豆映画","name": "麻豆映画", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/麻豆映画.json"},
   {"key":"csp_xBPQ_香蕉3","name": "香蕉3",	"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/香蕉3.json"},
   {"key":"csp_xBPQ_性欲轮回","name": "性欲轮回", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/性欲轮回.json"},
   {"key":"csp_xBPQ_性欲轮回]","name": "性欲轮回分类","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/性欲轮回[分类].json"},
