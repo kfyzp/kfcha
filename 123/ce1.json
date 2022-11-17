@@ -31,7 +31,7 @@
   {"key": "csp_XBiu_掏爱撸","name": "掏爱撸(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/掏爱撸.json"},
   {"key": "水蜜桃","name": "水蜜桃","type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
   
-  {"key": "csp_XBiu_麻豆","name": "麻豆(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://catvod.fun:8001/tv/H/XB/麻豆.json"},
+  {"key": "csp_XBiu_麻豆1","name": "麻豆(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://catvod.fun:8001/tv/H/XB/麻豆.json"},
   {"key": "csp_XBiu_香蕉","name": "香蕉(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://catvod.fun:8001/tv/H/XB/香蕉.json"},
   {"key": "csp_XBiu_新香蕉","name": "新香蕉(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://catvod.fun:8001/tv/H/XB/麻豆.json"},
   
