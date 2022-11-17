@@ -232,8 +232,8 @@
     },
    
     {
-      "key": "哔哩",
-      "name": "哔哩",
+      "key": "哔哩t",
+      "name": "哔哩t",
       "type": 3,
       "api": "csp_Dora",
       "searchable": 1,
