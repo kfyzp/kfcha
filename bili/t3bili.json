@@ -49,6 +49,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/知识学习.json"
+    },
+    
+      {
+      "key": "mv",
+      "name": "mv",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/mv.json"
     }
         
   ],
