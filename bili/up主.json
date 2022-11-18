@@ -1,14 +1,11 @@
-﻿
 {
 "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cookie.txt",	
 		
  //"cookie": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/cookie.txt",
 	
   "classes": [
-	  
-	  
-{"type_name": "太虚随谈","type_id": "太虚随谈"},	  
-	  
+{"type_name": "太虚随谈","type_id": "太虚随谈"},		  
+	  	  
 { "type_name": "小Lin说","type_id": "小Lin说" },
 
 { "type_name": "自说自话的总裁","type_id": "自说自话的总裁" },
@@ -30,10 +27,6 @@
 { "type_name": "毕导THU","type_id": "毕导THU"},
 
 { "type_name": "三维地图看世界","type_id": "三维地图看世界"},
-
-{ "type_name": "叶凌尘-终身成长","type_id": "叶凌尘-终身成长"},
-
-{ "type_name": "农夫CC","type_id": "农夫CC"},
 
 { "type_name": "眼见为识","type_id": "眼见为识"},
 
