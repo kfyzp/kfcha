@@ -231,16 +231,38 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
    
-    {
-      "key": "哔哩t",
-      "name": "哔哩t",
+{
+      "key": "up主",
+      "name": "up主_Bili",
       "type": 3,
       "api": "csp_Dora",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/ziyong.json"
-    },   
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/up主.json"
+    }, 
+    
+        {
+      "key": "健身娱乐",
+      "name": "健身娱乐_Bili",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/健身娱乐.json"
+    }, 
+    
+        {
+      "key": "知识学习",
+      "name": "知识学习_Bili",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/知识学习.json"
+    },
    
     {
       "key": "紙條",
