@@ -8,7 +8,11 @@
   
 {"type_name": "知识","type_id": "知识"},  
 	  
-{"type_name": "博通","type_id": "博通"},   
+{"type_name": "博通","type_id": "博通"},
+	  
+{ "type_name": "叶凌尘-终身成长","type_id": "叶凌尘-终身成长"},
+
+{ "type_name": "农夫CC","type_id": "农夫CC"},	  
 	  
 {"type_name": "英语",  "type_id": "英语学习" },
 	  
