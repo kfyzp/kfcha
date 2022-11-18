@@ -3,6 +3,7 @@
   "wallpaper":"http://catvod.fun:8001/tv/H/w1.png",
   "lives":[{"group":"redirect","channels":[{	"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2NhdHZvZC5mdW46ODAwMS90di9saXZlLnR4dA"]}]}],
   "sites": [
+  {"key":"csp_hsck","name":"🔥Hsck","type":3,"api":"csp_Hsck","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/"},
   {"key":"csp_xBPQ_banan","name": "banan","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/banan.json"},
   {"key":"csp_xBPQ-爱看影院","name": "爱看影院️", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/爱看影院️.json"},
   {"key":"csp_xBPQ_麻豆映画","name": "麻豆映画", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/麻豆映画.json"},
@@ -50,8 +51,7 @@
   {"key":"Hanime","name":"Hanime(外)","type":3,"api":"csp_Hanime","searchable":1,"filterable":1},
   {"key":"csp_XYQHiker_水果派","name": "水果派(外)", "type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/水果派.json"},
   {"key":"csp_XYQHiker_300分类","name":"300分类(外)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/300分类.json"},
-  {"key":"csp_hsck","name":"🔥Hsck","type":3,"api":"csp_Hsck","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/"},
-  {"key":"csp_xBPQ_黄仓库","name":"黄仓库","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/黄仓库.json"}
+ {"key":"csp_xBPQ_黄仓库","name":"黄仓库","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/黄仓库.json"}
 
 ],
 	"parses": [],
