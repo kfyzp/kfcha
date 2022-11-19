@@ -1,8 +1,8 @@
  {
   
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3-20221117.jar",
+ //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3-20221117.jar",
   
-  //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3.jar",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3.jar",
   
   "sites": [
     {
@@ -235,40 +235,43 @@
       "key": "up主",
       "name": "up主_Bili",
       "type": 3,
-      "api": "csp_Dora",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/up主.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/up主.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     }, 
     
         {
       "key": "健身娱乐",
       "name": "健身娱乐_Bili",
       "type": 3,
-      "api": "csp_Dora",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/健身娱乐.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/健身娱乐.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     }, 
     
         {
       "key": "知识学习",
       "name": "知识学习_Bili",
       "type": 3,
-      "api": "csp_Dora",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/知识学习.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.iqiq.io/kfyzp/kfcha/main/bili/知识学习.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
    
      {
       "key": "mv",
       "name": "mv",
       "type": 3,
-      "api": "csp_Dora",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
