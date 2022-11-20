@@ -121,7 +121,8 @@
    
  {"key":"乐活影视", "name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
    
-
+ {"key":"csp_biubiu_厂长资源", "name":"厂长资源-蓝光(XB)", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":0,
+  "ext":"https://raw.fastgit.org/kfyzp/kfcha/main/xb/厂长资源-蓝光.json"},
 
 
 {"key": "csp_XYQHiker_鸭奈飞影视",
