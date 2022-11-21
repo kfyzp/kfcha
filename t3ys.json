@@ -199,7 +199,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/alist.json",
+      "ext": "http://home.jundie.top:666/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
    
@@ -232,7 +232,7 @@
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
-      "ext": "339541c49aab4f6c878119930894f7ab",
+      "ext": "http://home.jundie.top:666/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
           {
