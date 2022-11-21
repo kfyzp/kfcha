@@ -242,7 +242,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json",
+      "ext": "http://home.jundie.top:666/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
 
@@ -253,7 +253,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json",
+      "ext": "http://home.jundie.top:666/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     },
       {
@@ -263,7 +263,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "339541c49aab4f6c878119930894f7ab",
+      "ext": "http://home.jundie.top:666/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
     }
   ],
