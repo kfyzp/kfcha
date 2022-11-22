@@ -6,13 +6,9 @@
 	
   "classes": [
 	  
-{"type_name": "帕梅拉","type_id": "帕梅拉"},
-	  
-{"type_name": "太虚随谈","type_id": "太虚随谈"},	  
+{"type_name": "帕梅拉","type_id": "帕梅拉"},  
 	  
 { "type_name": "小Lin说","type_id": "小Lin说" },
-
-{ "type_name": "自说自话的总裁","type_id": "自说自话的总裁" },
 	  
 {"type_name":"所长林超","type_id":"所长林超"},
 	  
@@ -22,65 +18,29 @@
 	  
 {"type_name": "夏冰雹频道","type_id": "夏冰雹频道"}, 
 	  
-{"type_name": "江寻千","type_id": "江寻千"},	  
-	  
-{ "type_name": "low馆长","type_id": "low馆长"},
+{"type_name": "江寻千","type_id": "江寻千"},
 	  
  {"type_name": "amoy大号","type_id": "amoy大号官方号"},
-
-{ "type_name": "毕导THU","type_id": "毕导THU"},
-
-{ "type_name": "三维地图看世界","type_id": "三维地图看世界"},
 
 { "type_name": "叶凌尘-终身成长","type_id": "叶凌尘-终身成长"},
 
 { "type_name": "农夫CC","type_id": "农夫CC"},
-
-{ "type_name": "眼见为识","type_id": "眼见为识"},
-
-{ "type_name": "乌鸦校尉CaptainWuya","type_id": "乌鸦校尉CaptainWuya"},
 	  
 {"type_name": "英语",  "type_id": "英语学习" },
 	  
-{"type_name":"人教版", "type_id":"人教版课程"},
-	  
-{"type_name": "励志学习","type_id": "励志学习" },
-
 {"type_name": "Excel","type_id": "Excel"}, 
 
 {"type_name": "Word","type_id": "Word"}, 
 	  
 {"type_name": "VLOOKUP", "type_id": "VLOOKUP"},
 
-{"type_name": "相声小品","type_id": "相声小品"},
-
-{"type_name":"演讲","type_id":"演讲"},
- 	
 {"type_name": "动物世界","type_id": "动物世界"},
 	  
-{"type_name": "太极拳","type_id": "太极拳" }, 
-
-{"type_name": "八段锦","type_id": "八段锦"},
-	  
-{"type_name":"4K资源","type_id":"4K"},
-	  
-{"type_name":"8K资源","type_id":"8K"},
-	  
-{"type_name": "知识","type_id": "知识"},  
-	  
 {"type_name": "博通","type_id": "博通"},   
-	  
-{"type_name": "演唱会","type_id": "演唱会"},
-
-{"type_name": "MV","type_id": "MV"},
 
 { "type_name": "粤语","type_id": "粤语歌曲"},
 	  
-{"type_name": "2022年热榜","type_id": "2022年热们歌曲"},
-	  
 {"type_name": "热门KTV","type_id": "热门KTV"},
-
-{"type_name": "古风歌曲","type_id": "古风歌曲"},
 
 {"type_name": "林忆莲","type_id": "林忆莲mv"},
 
@@ -89,8 +49,6 @@
 {"type_name": "周杰伦","type_id": "周杰伦mv"},
 
 { "type_name": "周华健","type_id": "周华健mv"},
-
-{"type_name": "邓紫棋","type_id": "邓紫棋mv"},
 
 {"type_name": "刘德华", "type_id": "刘德华mv"},
 
