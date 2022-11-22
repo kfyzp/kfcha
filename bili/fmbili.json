@@ -10,13 +10,7 @@
 	  
 { "type_name": "小Lin说","type_id": "小Lin说" },
 	  
-{"type_name":"所长林超","type_id":"所长林超"},
-	  
-{"type_name":"小艾大叔","type_id":"小艾大叔"},
-	  
-{"type_name": "雪鱼探店","type_id": "雪鱼探店"},	  
-	  
-{"type_name": "夏冰雹频道","type_id": "夏冰雹频道"}, 
+{"type_name": "博通","type_id": "博通"},	  
 	  
 {"type_name": "江寻千","type_id": "江寻千"},
 	  
@@ -36,8 +30,6 @@
 
 {"type_name": "动物世界","type_id": "动物世界"},
 	  
-{"type_name": "博通","type_id": "博通"},   
-
 { "type_name": "粤语","type_id": "粤语歌曲"},
 	  
 {"type_name": "热门KTV","type_id": "热门KTV"},
