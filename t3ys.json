@@ -2,7 +2,7 @@
   
    //"spider": "https://raw.iqiq.io/kfyzp/kfcha/main/jar/t3-20221117.jar",
   
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3.jar",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t33.jar",
   
   "sites": [
    
@@ -169,40 +169,7 @@
 "jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
 
    
-{"key": "csp_XYQHiker_厂长影视",
-"name": "厂长影视(XYQH)",
-"type": 3,
-"api": "csp_XYQHiker",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/XYQHiker/厂长影视.json",
-"jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
-   
-   
-   
-   
-   
-   
-        
-
-
-
-
-   
-   
-   
-   {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "http://home.jundie.top:666/token.txt",
-      "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-    },
-   
+{"key":"AList","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 
     {
       "key": "SP360",
