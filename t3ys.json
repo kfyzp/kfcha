@@ -167,7 +167,13 @@
 "jar": "https://raw.iqiq.io/kfyzp/kfcha/main/dr_js/drjs.jar;md5;84AE4F017C6EFCE98AC23CB07990FF55"},
 
    
-{"key":"AList","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://raw.iqiq.io/kfyzp/kfcha/main/alist.json"},
+{"key":"AList",
+"name": "AList",
+"type": "3",
+"api":"csp_AList",
+"searchable":"1",
+"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/alist.json",
+"jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d"},
 
     {
       "key": "SP360",
