@@ -1,7 +1,4 @@
  {
-  
-   //"spider": "https://raw.iqiq.io/kfyzp/kfcha/main/jar/t3-20221117.jar",
-  
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/jar/t3.jar",
   
   "sites": [
@@ -174,7 +171,7 @@
 "searchable": 1,
 "filterable": 1,
 "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/alist.json",
-"jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d"},
+"jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 
     {
       "key": "SP360",
@@ -205,7 +202,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "ext": "http://home.jundie.top:666/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
           {
       "key": "易搜",
@@ -215,7 +212,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
 
     {
@@ -226,7 +223,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
       {
       "key": "push_agent",
@@ -236,7 +233,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     }
   ],
   "lives": [
