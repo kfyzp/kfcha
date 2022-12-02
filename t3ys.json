@@ -201,7 +201,7 @@
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
-      "ext": "182d53af50c94c26b140db69f02f8d38",
+      "ext": "b90538d17a324365afda39f111e8547f",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
           {
@@ -211,7 +211,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38",
+      "ext": "b90538d17a324365afda39f111e8547f",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
 
@@ -222,7 +222,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38",
+      "ext": "b90538d17a324365afda39f111e8547f",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
       {
@@ -232,7 +232,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38",
+      "ext": "b90538d17a324365afda39f111e8547f",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     }
   ],
