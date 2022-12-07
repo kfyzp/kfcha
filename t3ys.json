@@ -191,7 +191,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://raw.iqiq.io/kfyzp/kfcha/main/bili/t3bili.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
    
    
