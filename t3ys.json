@@ -183,17 +183,7 @@
       "filterable": 1
     },
    
-     {
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/bili/cookie.txt/kfyzp/kfcha/main/bili/t3bili.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kfyzp/kfcha/main/123/18.jar"
-    },
-   
+
    
     {
       "key": "紙條",
