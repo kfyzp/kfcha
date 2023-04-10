@@ -4,15 +4,15 @@
   "lives":[{"group":"redirect","channels":[{	"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2NhdHZvZC5mdW46ODAwMS90di9saXZlLnR4dA"]}]}],
   "sites": [
   {"key":"csp_hsck","name":"🔥Hsck","type":3,"api":"csp_Hsck","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/"},
-  {"key":"csp_xBPQ_banan","name": "banan","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/banan.json"},
+  //{"key":"csp_xBPQ_banan","name": "banan","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/banan.json"},
   //{"key":"csp_xBPQ-爱看影院","name": "爱看影院️", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/爱看影院️.json"},
   //{"key":"csp_xBPQ_麻豆映画","name": "麻豆映画", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/麻豆映画.json"},
   	  
   
   {"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
   //{"key":"水蜜桃","name": "水蜜桃","type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},	  
-  {"key":"XYQBiu_cs","name":"🔥cs(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/1.json"},
-  {"key":"XYQBiu_cs1","name":"🔥cs1(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/2.json"},
+  //{"key":"XYQBiu_cs","name":"🔥cs(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/1.json"},
+  //{"key":"XYQBiu_cs1","name":"🔥cs1(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/2.json"},
   //{"key":"XYQBiu_测试4","name":"🔥nsss(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/nsss.json"},
   {"key":"XYQBiu_测试3","name":"🔥cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/cqzy.json"},
   //{"key":"csp_xBPQ-四虎","name":"四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/kfyzp/kfcha/main/123/ce-json/四虎.json"},
