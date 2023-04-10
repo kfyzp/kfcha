@@ -191,17 +191,17 @@
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+      "ext": "影視天下第一",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
-          {
+    {
       "key": "易搜",
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+      "ext": "影視天下第一",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
 
@@ -212,39 +212,19 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+      "ext": "影視天下第一",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
 
-{
-      "key": "UP雲搜",
-      "name": "UP雲搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-    },
-    {
-      "key": "找資源",
-      "name": "找資源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
-    },
 
-      {
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+      "ext": "影視天下第一",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     }
   ],
